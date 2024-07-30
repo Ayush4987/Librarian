@@ -28,7 +28,7 @@ function Banner() {
                             <input type="text" className="grow dark:text-black" placeholder="Email" />
                         </label>
                     </div>
-                    <button className="btn mt-6 text-white bg-blue-400 btn-primary hover:bg-blue-500 cursor-pointer ">Sign Up</button>
+                    <button className="btn mt-6 text-white bg-blue-400 btn-primary hover:bg-blue-500 cursor-pointer ">Get Started</button>
                 </div>
                 <div className='w-full md:w-1/2 order-1 mx-auto'>
                     <img src={bannerp} className='w-[400px] h-[400px] rounded-[30px] md:mt-[100px] md:mx-auto mx-auto mt-[80px]' alt="Books stacked in order :)"/>
