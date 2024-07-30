@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 1,
+        "name" : "The Alchemist",
+        "title" : "Paulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure",
+        "price" : 0,
+        "category" : "Free Adventure Fiction",
+        "image" : "./../src/assets/Bookpics/alchemist.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Samsara:Valley of the Gods",
+        "title" : "This is magic, mythology and mysticism, all rolled into one delicious Hinduism-inspired story.",
+        "price" : 0,
+        "category" : "Free Mythology Fiction",
+        "image" : "./../src/assets/Bookpics/samsara.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "The Hidden Hindu",
+        "title" : " Board the boat of Om Shastri's secrets, Prithvi's pursuit and adventures of other enigmatic immortals of Hindu mythology in this exciting and revealing journey.",
+        "price" : 0,
+        "category" : "Free Mythology Fiction",
+        "image" : "./../src/assets/Bookpics/hiddenHindu.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "The Diary of a Young Girl",
+        "title" : "Anne Frank’s remarkable diary has since become a world classic—a powerful reminder of the horrors of war",
+        "price" : 370,
+        "category" : "Biography",
+        "image" : "./../src/assets/Bookpics/anneFrank.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Tomb of Sand",
+        "title" : "In northern India, an eighty-year-old woman slips into a deep depression after the death of her husband, and then resurfaces to gain a new lease on life.",
+        "price" : 0,
+        "category" : "Free Biography Contemporary",
+        "image" : "./../src/assets/Bookpics/tombOfSand.jpg"
+    },{
+        "id" : 6,
+        "name" : "To Hell and Back: Humans of COVID",
+        "title" : "The classic book on India’s pandemic Since 2020, our world has battled a single enemy .",
+        "price" : 0,
+        "category" : "Free Contemporary",
+        "image" : "./../src/assets/Bookpics/toHellAndBack.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "Asoca:A sutra",
+        "title" : "Who was the man, and who was the king? What were his demons, and what gave him strength? This historical novel, drawn from research",
+        "price" : 0,
+        "category" : "Free History fiction",
+        "image" : "./../src/assets/Bookpics/asoca.jpg"
+    }
+
+]
